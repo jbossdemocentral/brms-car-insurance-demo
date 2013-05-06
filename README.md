@@ -26,7 +26,7 @@ See Quick Start Guide in project as ODT and PDF for details on installation. For
 
 - login to Business Central (http://localhost:8080/business-central)
 
-- start process, view JBoss EAP logs for results
+- use RH6PD webapp to run demo (http://localhost:8080/rh6pd)
 
 Windows users see support/windows/README for installation.
 
