@@ -14,7 +14,7 @@ See Quick Start Guide in project as ODT and PDF for details on installation. For
 
 - run 'init.sh' & read output
 
-- read Demo Guide
+- read Quick Start Guide
 
 - start JBoss EAP server
 
@@ -26,7 +26,7 @@ See Quick Start Guide in project as ODT and PDF for details on installation. For
 
 - login to Business Central (http://localhost:8080/business-central)
 
-- use RH6PD webapp to run demo (http://localhost:8080/rh6pd)
+- start demo via RH6PD webapp (http://localhost:8080/rh6pd)
 
 Windows users see support/windows/README for installation.
 
