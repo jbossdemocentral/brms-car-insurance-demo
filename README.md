@@ -3,6 +3,13 @@ JBoss BRMS Car Insurance Demo Quickstart Guide
 
 Demo based on JBoss BRMS products.
 
+
+Supporting Articles
+-------------------
+
+[Car Insurance Demo Introduction with video] (http://www.schabell.org/2013/05/jboss-brms-bpm-car-insurance-demo.html)
+
+
 Setup and Configuration
 -----------------------
 
@@ -29,6 +36,7 @@ See Quick Start Guide in project as ODT and PDF for details on installation. For
 - start demo via RH6PD webapp (http://localhost:8080/rh6pd)
 
 Windows users see support/windows/README for installation.
+
 
 Released versions
 -----------------
