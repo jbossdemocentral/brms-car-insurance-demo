@@ -1,4 +1,4 @@
-JBoss BRMS Car Insurance Demo Quickstart Guide
+JBoss BRMS 5.x Car Insurance Demo Quickstart Guide
 ===================================================
 
 Demo based on JBoss BRMS products.
@@ -42,6 +42,8 @@ Released versions
 -----------------
 
 See the tagged releases for the following versions of the product:
+
+- v1.0 moved to JBoss Demo Central.
 
 - v1.0 is BRMS 5.3.1 deployable, running on JBoss EAP 6.
 
